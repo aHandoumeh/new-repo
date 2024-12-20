@@ -1,0 +1,4 @@
+*.log
+!hh.log
+newFolder/
+rr.txt
